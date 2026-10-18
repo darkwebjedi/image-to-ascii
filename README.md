@@ -1,6 +1,6 @@
 # Image-to-ASCII Converter
 
-A lightweight, modular Java CLI tool that converts raster images (JPEG, PNG, BMP, GIF) into ASCII and Unicode text art. Designed with aspect-ratio correction, ITU-R luminance weighting, multiple character sets, file export, and optional 24-bit ANSI TrueColor terminal rendering.
+A lightweight, modular Java CLI tool that converts raster images (JPEG, PNG, BMP, GIF) into ASCII and Unicode text art. Designed with aspect-ratio correction, ITU-R luminance weighting, multiple character sets, file export, and optional 24-bit ANSI TrueColor terminal rendering. Built by me during my second year at university.
 
 ---
 
